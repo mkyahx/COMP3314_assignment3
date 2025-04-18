@@ -4,8 +4,11 @@
 - Project Overview
   - This project is designed for image classification tasks, utilizing multiple feature extraction techniques such as HOG, LBP, and SIFT combined with PCA for dimensionality reduction and SVM for classification. The aim of this project is to demonstrate how different feature extraction methods and model training techniques can be applied to handle image classification problems.
 
+## Dataset
 
-
+- Kaggle dataset
+  - url: `kaggle competitions download -c 2025-hku-comp-3314-image-classification-challenge`
+  - download the dataset from kaggle and put the `image_classification.py` and fold `data` under the same fold
 ## Features
 
 - Data Loading and Preprocessing
@@ -49,12 +52,12 @@
 ## Install Dependencies
 
 - The project relies on the following libraries:
-    - pandas
-    - numpy
-    - matplotlib
-    - scikit-learn
-    - opencv-python
-    - scikit-image
-    - cuml (for GPU-accelerated machine learning)
+    - `pandas`
+    - `numpy`
+    - `matplotlib`
+    - `scikit-learn`
+    - `opencv-python`
+    - `scikit-image`
+    - `cuml` (for GPU-accelerated machine learning)
 
     
