@@ -1,11 +1,11 @@
 
-COMP3314_assignment3
+### COMP3314_assignment3
 
 - Project Overview
   - This project is designed for image classification tasks, utilizing multiple feature extraction techniques such as HOG, LBP, and SIFT combined with PCA for dimensionality reduction and SVM for classification. The aim of this project is to demonstrate how different feature extraction methods and model training techniques can be applied to handle image classification problems.
 
 
-image classification project based on traditional machine learning methods
+
 ## Features
 
 - Data Loading and Preprocessing
