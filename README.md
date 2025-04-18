@@ -36,9 +36,11 @@
  
 ## Authors
 
-- [@mkyahx](https://www.github.com/mkyahx)
+- [@Zhang_Shenru](https://www.github.com/mkyahx)
 
-- [@eddieidde04](https://www.github.com/eddieidde04)
+- [@Chen_Liangyi](https://www.github.com/eddieidde04)
+
+- [@Li_Hewen](https://www.github.com/JackLihh)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
