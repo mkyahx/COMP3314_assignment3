@@ -19,6 +19,9 @@
     - `scikit-learn`
     - `opencv-python`
     - `scikit-image`
+    - `tqdm`
+    - `lightgbm`
+    - `seaborn`
     - `cuml` (for GPU-accelerated machine learning)
 
 
@@ -45,10 +48,14 @@
     - Print classification results and confusion matrix
 ## Project Results
 - Accuracy
-    - Accuracy of the SVM classifier: 70.93%
-    - Accuracy of the Logistic Regression model: 59.33%
+    - Accuracy of the SVM classifier: 71.17%
+    - Accuracy of the LGB classifier: 61.98%
 - Confusion Matrix
     - The confusion matrix helps us understand the classification performance for each category.
+    - ![image](https://github.com/user-attachments/assets/a6a230a2-ec05-4658-aa33-a2aafeb41002)
+
+    - ![image](https://github.com/user-attachments/assets/2f29b72a-e2a5-423d-b899-762109f5c005)
+
  
 ## Authors
 
