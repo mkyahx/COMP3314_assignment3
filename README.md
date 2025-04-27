@@ -8,8 +8,7 @@
 
 - Kaggle dataset
   - url: `kaggle competitions download -c 2025-hku-comp-3314-image-classification-challenge`
-  - download the dataset from kaggle and put the `image_classification.py` and fold `data` under the same fold
- 
+  - download the dataset from kaggle or simply use the folder `data`
 ## Install Dependencies
 
 - The project relies on the following libraries:
